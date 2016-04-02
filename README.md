@@ -1,4 +1,4 @@
-# hanoi-types
+# hanoi-type
 Solve the Tower of Hanoi at the type level in Haskell
 
 You know, in case you have a type that happens to be the initial state of the well-known game, and you really want to solve it...
